@@ -1,5 +1,5 @@
 <div>
-  <label>View</label>
+  <label>View http://localhost/car-basic/web/car-basic </label>
   <img src ="car-basic.png" alt="car-basic" />
 <div>
 
